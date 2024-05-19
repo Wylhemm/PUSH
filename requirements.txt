@@ -1,0 +1,6 @@
+flask
+numpy
+scipy
+torch
+torchaudio
+pyyaml
